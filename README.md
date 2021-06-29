@@ -1,4 +1,4 @@
-# create-array
+# create-arr
 
 Utility to create arrays from simple parameters. Improved version of C#'s `Enumerable.Range`.
 
@@ -6,13 +6,13 @@ Utility to create arrays from simple parameters. Improved version of C#'s `Enume
 
 Install the package like this:
 ```
-npm install --save create-array
+npm install --save create-arr
 ```
 
 ## Usage
 
 ```js
-const arr = require("create-array");
+const arr = require("create-arr");
 
 console.log(arr(3, 5)); // [5, 5, 5]
 console.log(arr(1, 4)); // [4]
