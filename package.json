@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Creates an array from specified parameters",
   "main": "src/index.js",
+  "types": "./index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blaumeise20/create-arr.git"
